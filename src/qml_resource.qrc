@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/qml">
+        <file>WallpaperApp.qml</file>
+        <file>CustomMessageDialog.qml</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon.ico</file>
+    </qresource>
+</RCC>
